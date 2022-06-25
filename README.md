@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/45478777/175765962-a2c39801-a98b-4eb3-be90-cd76e8a90d59.png)
 
-**2.** Add Test Cases and do API Testing 
+**2.** Add Test Cases and do API testing 
 
 **3.** Apply Run Collection
 
